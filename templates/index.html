@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>TNEA College Recommender</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head><body>
+<main class="app">
+  <header><h1>TNEA College Recommender</h1><p>Tell me your marks. I'll sort colleges into Safe, Target and Ambitious.</p></header>
+  <section id="log" aria-live="polite"></section>
+  <div class="chips" id="chips"></div>
+  <form id="f"><input id="q" placeholder="e.g. My maths mark is 95" autocomplete="off" aria-label="Message"><button>Send</button></form>
+  <footer>{{ disclaimer }}</footer>
+</main>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+</body></html>

@@ -1,0 +1,394 @@
+college_code,college_name,district,college_type,branch,community,cutoff,year
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,OC,196,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,BC,194,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,MBC,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,SC,193,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,BCM,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,SCA,183,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,CIVIL ENGINEERING,ST,183,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,OC,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,BC,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,MBC,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,SC,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,BCM,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,SCA,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,COMPUTER SCIENCE AND ENGINEERING,ST,197,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,200,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,198,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,193,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,198,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,197,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,198,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,194,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,196,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,189,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,ELECTRICAL AND ELECTRONICS ENGINEERING,ST,197,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),OC,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),BC,198,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),MBC,199,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),SC,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),BCM,198,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),SCA,186,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,INFORMATION TECHNOLOGY (SS),ST,192,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,OC,197,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,BC,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,MBC,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,SC,189,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,BCM,195,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,SCA,183,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,MECHANICAL ENGINEERING,ST,196,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),OC,196,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),BC,193,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),MBC,193,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),SC,190,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),BCM,190,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),SCA,179,2025
+1,University Departments of Anna University Chennai - CEG Campus,Chennai,University,BIO MEDICAL ENGINEERING (SS),ST,186,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,OC,197,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,BC,195,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,MBC,195,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,SC,190,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,BCM,194,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,SCA,179,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AERONAUTICAL ENGINEERING,ST,189,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,OC,200,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,BC,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,MBC,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,SC,197,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,BCM,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,SCA,188,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING,ST,195,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),OC,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),BC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),MBC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),SC,196,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),BCM,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),SCA,187,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,COMPUTER SCIENCE AND ENGINEERING (SS),ST,192,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,195,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,199,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,194,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),OC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),BC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),MBC,198,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),SC,194,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),BCM,197,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),SCA,184,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,INFORMATION TECHNOLOGY (SS),ST,190,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,OC,194,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,BC,191,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,MBC,191,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,SC,185,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,BCM,189,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,SCA,177,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,AUTOMOBILE ENGINEERING,ST,175,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),OC,197,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),BC,196,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),MBC,196,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),SC,190,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),BCM,196,2025
+4,University Departments of Anna University Chennai - MIT Campus,Chengalpattu,University,ROBOTICS AND AUTOMATION (SS),SCA,187,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),OC,200,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),BC,199,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),MBC,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),SC,193,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),BCM,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),SCA,188,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,COMPUTER SCIENCE AND ENGINEERING (SS),ST,179,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,200,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,199,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,199,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,197,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,196,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,189,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,196,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,180,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),OC,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),BC,198,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),MBC,197,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),SC,189,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),BCM,197,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),SCA,187,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,INFORMATION TECHNOLOGY (SS),ST,192,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,OC,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,BC,193,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,MBC,192,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,SC,187,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,BCM,192,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,CIVIL ENGINEERING,SCA,180,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,OC,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,BC,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,MBC,193,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,SC,184,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,BCM,194,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,SCA,179,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,MECHANICAL ENGINEERING,ST,175,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),OC,196,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),BC,195,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),MBC,192,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),SC,182,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),BCM,192,2025
+2006,PSG College of Technology (Autonomous),Coimbatore,Government-aided,ROBOTICS AND AUTOMATION (SS),SCA,180,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,OC,198,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,BC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,MBC,197,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,SC,193,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,BCM,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,SCA,194,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING,ST,188,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,197,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,188,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,184,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRONICS AND COMMUNICATION ENGINEERING,ST,188,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,194,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,193,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,187,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,193,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,179,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,ELECTRICAL AND ELECTRONICS ENGINEERING,ST,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,OC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,BC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,MBC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,SC,190,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,BCM,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,SCA,183,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,INFORMATION TECHNOLOGY,ST,183,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,OC,188,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,BC,183,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,MBC,182,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,SC,176,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,BCM,180,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,SCA,174,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,CIVIL ENGINEERING,ST,185,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,OC,190,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,BC,187,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,MBC,185,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,SC,176,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,BCM,186,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,SCA,173,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,MECHANICAL ENGINEERING,ST,182,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),OC,196,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),BC,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),MBC,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),SC,189,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),BCM,195,2025
+2005,Government College of Technology (Autonomous),Coimbatore,Government,COMPUTER SCIENCE AND ENGINEERING (AI AND MACHINE LEARNING),SCA,185,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,OC,198,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,BC,197,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,MBC,196,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,SC,189,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,BCM,197,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,COMPUTER SCIENCE AND ENGINEERING,SCA,179,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,197,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,197,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,196,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,189,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,196,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,179,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,195,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,194,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,192,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,184,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,193,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,166,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,ELECTRICAL AND ELECTRONICS ENGINEERING,ST,172,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),OC,195,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),BC,194,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),MBC,192,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),SC,179,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),BCM,192,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),SCA,172,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,INFORMATION TECHNOLOGY (SS),ST,172,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,OC,191,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,BC,189,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,MBC,185,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,SC,175,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,BCM,191,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,CIVIL ENGINEERING,SCA,168,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,OC,191,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,BC,190,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,MBC,188,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,SC,179,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,BCM,187,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,SCA,175,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,MECHANICAL ENGINEERING,ST,161,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),OC,195,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),BC,194,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),MBC,195,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),SC,179,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),BCM,195,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),SCA,180,2025
+5008,Thiagarajar College of Engineering (Autonomous),Madurai,Government-aided,Computer Science and Engineering (Artificial Intelligence and Machine Learning) (SS),ST,171,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,OC,189,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,BC,185,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,MBC,181,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,SC,157,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,BCM,186,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,SCA,128,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,ST,141,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,186,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,182,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,178,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,153,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,178,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,100,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,ST,137,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,181,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,177,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,174,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,142,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,179,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,115,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,OC,187,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,BC,183,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,MBC,179,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,SC,153,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,BCM,186,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,SCA,130,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,ST,136,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,OC,168,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,BC,165,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,MBC,162,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,SC,144,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,BCM,153,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,SCA,107,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,OC,176,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,BC,171,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,MBC,165,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,SC,143,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,BCM,173,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,SCA,114,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,OC,187,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,BC,183,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,MBC,179,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,SC,155,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,BCM,184,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,SCA,122,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,ST,138,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,OC,185,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,BC,182,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,MBC,178,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,SC,152,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,BCM,182,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,SCA,136,2025
+1216,Saveetha Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,ST,106,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,OC,196,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,BC,195,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,MBC,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,SC,179,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,BCM,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,SCA,171,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,COMPUTER SCIENCE AND ENGINEERING,ST,174,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,195,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,194,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,193,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,178,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,165,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,ST,167,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,191,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,190,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,175,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,189,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,160,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,ST,156,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,OC,194,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,BC,194,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,MBC,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,SC,179,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,BCM,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,SCA,178,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,INFORMATION TECHNOLOGY,ST,169,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,OC,182,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,BC,178,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,MBC,177,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,SC,165,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,BCM,176,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,CIVIL ENGINEERING,SCA,159,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,OC,186,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,BC,184,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,MBC,180,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,SC,162,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,BCM,181,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,MECHANICAL ENGINEERING,SCA,160,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,OC,195,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,BC,194,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,MBC,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,SC,178,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,BCM,192,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Artificial Intelligence and Data Science,SCA,172,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,OC,188,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,BC,186,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,MBC,181,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,SC,161,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,BCM,187,2025
+2712,Kumaraguru College of Technology (Autonomous),Coimbatore,Private,Mechatronics Engineering,SCA,179,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,OC,194,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,BC,191,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,MBC,189,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,SC,177,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,BCM,191,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,SCA,142,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,COMPUTER SCIENCE AND ENGINEERING,ST,167,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,OC,191,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BC,188,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,MBC,185,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SC,175,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,BCM,187,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,SCA,146,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRONICS AND COMMUNICATION ENGINEERING,ST,149,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,OC,187,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BC,183,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,MBC,181,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SC,164,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,BCM,183,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,SCA,134,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,ELECTRICAL AND ELECTRONICS ENGINEERING,ST,158,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,OC,191,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,BC,189,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,MBC,187,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,SC,172,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,BCM,187,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,SCA,115,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,INFORMATION TECHNOLOGY,ST,158,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,OC,177,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,BC,171,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,MBC,172,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,SC,155,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,BCM,164,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,CIVIL ENGINEERING,SCA,127,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,OC,183,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,BC,178,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,MBC,175,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,SC,150,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,BCM,169,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,MECHANICAL ENGINEERING,SCA,130,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,OC,191,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,BC,187,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,MBC,185,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,SC,174,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,BCM,186,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,SCA,150,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Data Science,ST,155,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,OC,189,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,BC,185,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,MBC,184,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,SC,170,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,BCM,185,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,SCA,138,2025
+1211,Rajalakshmi Engineering College (Autonomous),Kanchipuram,Private,Artificial Intelligence and Machine Learning,ST,156,2025
